@@ -7,4 +7,3 @@ giveback = gets.chomp.to_i
 actually = number / 10
 
 print "Well, I'm only going to give you back #{actually}...see ya sucker! *runs away*"
-Exercises
